@@ -1,8 +1,6 @@
 # verify-template
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](#contributors)
-[![Hits-of-Code](https://hitsofcode.com/github/cuongw/verify-template)](https://hitsofcode.com/view/github/cuongw/verify-template)
-[![GitHub](https://img.shields.io/github/license/cuongw/verify-template.svg)](https://github.com/cuongw/verify-template/blob/master/LICENSE)
 
 > 🔦☘️ Verify template in React app.
 
